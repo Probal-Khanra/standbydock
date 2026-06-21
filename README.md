@@ -56,4 +56,10 @@ If you just want to run the application on your device without setting up a deve
 ### Step 1: Clone and Get Dependencies
 ```bash
 # Clone the repository
-git clone https://github
+git clone [https://github.com/Probal-Khanra/standbydock.git](https://github.com/Probal-Khanra/standbydock.git)
+
+# Navigate into the project folder
+cd standbydock
+
+# Fetch dependencies
+flutter pub get
